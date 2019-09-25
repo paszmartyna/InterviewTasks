@@ -1,0 +1,11 @@
+C:\Repos\Zadnia_rekrutacyjne\NET\6_Permutation\Permutation\Permutation\bin\Debug\netcoreapp2.1\Permutation.deps.json
+C:\Repos\Zadnia_rekrutacyjne\NET\6_Permutation\Permutation\Permutation\bin\Debug\netcoreapp2.1\Permutation.runtimeconfig.json
+C:\Repos\Zadnia_rekrutacyjne\NET\6_Permutation\Permutation\Permutation\bin\Debug\netcoreapp2.1\Permutation.runtimeconfig.dev.json
+C:\Repos\Zadnia_rekrutacyjne\NET\6_Permutation\Permutation\Permutation\bin\Debug\netcoreapp2.1\Permutation.dll
+C:\Repos\Zadnia_rekrutacyjne\NET\6_Permutation\Permutation\Permutation\bin\Debug\netcoreapp2.1\Permutation.pdb
+C:\Repos\Zadnia_rekrutacyjne\NET\6_Permutation\Permutation\Permutation\obj\Debug\netcoreapp2.1\Permutation.csprojAssemblyReference.cache
+C:\Repos\Zadnia_rekrutacyjne\NET\6_Permutation\Permutation\Permutation\obj\Debug\netcoreapp2.1\Permutation.csproj.CoreCompileInputs.cache
+C:\Repos\Zadnia_rekrutacyjne\NET\6_Permutation\Permutation\Permutation\obj\Debug\netcoreapp2.1\Permutation.AssemblyInfoInputs.cache
+C:\Repos\Zadnia_rekrutacyjne\NET\6_Permutation\Permutation\Permutation\obj\Debug\netcoreapp2.1\Permutation.AssemblyInfo.cs
+C:\Repos\Zadnia_rekrutacyjne\NET\6_Permutation\Permutation\Permutation\obj\Debug\netcoreapp2.1\Permutation.dll
+C:\Repos\Zadnia_rekrutacyjne\NET\6_Permutation\Permutation\Permutation\obj\Debug\netcoreapp2.1\Permutation.pdb

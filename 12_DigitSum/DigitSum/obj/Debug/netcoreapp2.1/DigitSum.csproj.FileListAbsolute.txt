@@ -1,0 +1,11 @@
+C:\Repos\Zadnia_rekrutacyjne\NET\DigitSum\DigitSum\bin\Debug\netcoreapp2.1\DigitSum.deps.json
+C:\Repos\Zadnia_rekrutacyjne\NET\DigitSum\DigitSum\bin\Debug\netcoreapp2.1\DigitSum.runtimeconfig.json
+C:\Repos\Zadnia_rekrutacyjne\NET\DigitSum\DigitSum\bin\Debug\netcoreapp2.1\DigitSum.runtimeconfig.dev.json
+C:\Repos\Zadnia_rekrutacyjne\NET\DigitSum\DigitSum\bin\Debug\netcoreapp2.1\DigitSum.dll
+C:\Repos\Zadnia_rekrutacyjne\NET\DigitSum\DigitSum\bin\Debug\netcoreapp2.1\DigitSum.pdb
+C:\Repos\Zadnia_rekrutacyjne\NET\DigitSum\DigitSum\obj\Debug\netcoreapp2.1\DigitSum.csprojAssemblyReference.cache
+C:\Repos\Zadnia_rekrutacyjne\NET\DigitSum\DigitSum\obj\Debug\netcoreapp2.1\DigitSum.csproj.CoreCompileInputs.cache
+C:\Repos\Zadnia_rekrutacyjne\NET\DigitSum\DigitSum\obj\Debug\netcoreapp2.1\DigitSum.AssemblyInfoInputs.cache
+C:\Repos\Zadnia_rekrutacyjne\NET\DigitSum\DigitSum\obj\Debug\netcoreapp2.1\DigitSum.AssemblyInfo.cs
+C:\Repos\Zadnia_rekrutacyjne\NET\DigitSum\DigitSum\obj\Debug\netcoreapp2.1\DigitSum.dll
+C:\Repos\Zadnia_rekrutacyjne\NET\DigitSum\DigitSum\obj\Debug\netcoreapp2.1\DigitSum.pdb

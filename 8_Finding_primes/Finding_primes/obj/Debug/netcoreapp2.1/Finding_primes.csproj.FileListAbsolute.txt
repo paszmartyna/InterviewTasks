@@ -1,0 +1,11 @@
+C:\Repos\Zadnia_rekrutacyjne\NET\Finding_primes\Finding_primes\bin\Debug\netcoreapp2.1\Finding_primes.deps.json
+C:\Repos\Zadnia_rekrutacyjne\NET\Finding_primes\Finding_primes\bin\Debug\netcoreapp2.1\Finding_primes.runtimeconfig.json
+C:\Repos\Zadnia_rekrutacyjne\NET\Finding_primes\Finding_primes\bin\Debug\netcoreapp2.1\Finding_primes.runtimeconfig.dev.json
+C:\Repos\Zadnia_rekrutacyjne\NET\Finding_primes\Finding_primes\bin\Debug\netcoreapp2.1\Finding_primes.dll
+C:\Repos\Zadnia_rekrutacyjne\NET\Finding_primes\Finding_primes\bin\Debug\netcoreapp2.1\Finding_primes.pdb
+C:\Repos\Zadnia_rekrutacyjne\NET\Finding_primes\Finding_primes\obj\Debug\netcoreapp2.1\Finding_primes.csprojAssemblyReference.cache
+C:\Repos\Zadnia_rekrutacyjne\NET\Finding_primes\Finding_primes\obj\Debug\netcoreapp2.1\Finding_primes.csproj.CoreCompileInputs.cache
+C:\Repos\Zadnia_rekrutacyjne\NET\Finding_primes\Finding_primes\obj\Debug\netcoreapp2.1\Finding_primes.AssemblyInfoInputs.cache
+C:\Repos\Zadnia_rekrutacyjne\NET\Finding_primes\Finding_primes\obj\Debug\netcoreapp2.1\Finding_primes.AssemblyInfo.cs
+C:\Repos\Zadnia_rekrutacyjne\NET\Finding_primes\Finding_primes\obj\Debug\netcoreapp2.1\Finding_primes.dll
+C:\Repos\Zadnia_rekrutacyjne\NET\Finding_primes\Finding_primes\obj\Debug\netcoreapp2.1\Finding_primes.pdb
